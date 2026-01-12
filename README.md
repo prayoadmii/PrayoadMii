@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello And Welcome To My GitHub Profile XD
 
-<!--
-**prayoadmii/PrayoadMii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*I'm Not A New Player Here... You Know?*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**So Yea! I Make Some Projects! (Scroll Down To See Public Repo's)**
+
+**My Faverite Projects**
+
+* **Noob Bot [Private Repo]:** Him Is The Best Discord Bot I Ever Made!
+
+***Oh Bruh... That All I Make? BRUH!***
+
+Ok nvm About It... Just Enjoy :D
+
+**Links**
+
+**Discord:** @prayoadmii Or [My Server](https://discord.gg/vkFJhzFmYY)
+
+**Roblox:** [Profile](https://www.roblox.com/th/users/9778511204/profile) Or [Groups](https://www.roblox.com/th/communities/713383747/Noobs-Studio-Creations)
+
+**Scratch:** [Profile](https://scratch.mit.edu/users/PrayoadMii) Or [Studios](https://scratch.mit.edu/studios/36723642/)
+
+**YouTube:** [Channel](https://www.youtube.com/@PrayoadMii)
