@@ -8,7 +8,8 @@
 
 **My Faverite Projects**
 
-* **Noob Bot [Private Repo]:** Him Is The Best Discord Bot I Ever Made!
+* **[MC-Hangout-Server](https://hangout-island-status.pages.dev/) [Private Repo]:** My First Minecraft Server O_O
+* **[Noob-Bot](https://discord.com/oauth2/authorize?client_id=1354829549577437214) [Private Repo]:** Him Is The Best Discord Bot I Ever Made!
 
 ***Oh Bruh... That All I Make? BRUH!***
 
