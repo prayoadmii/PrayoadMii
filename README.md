@@ -12,6 +12,8 @@
 * **JavaScript (Just Start)**
 * **[C#](https://unity.com/) (Do Not Ask <3)**
 
+---
+
 **So Yea! I Make Some Projects! (Scroll Down To See Public Repo's)**
 
 **My Faverite Projects**
@@ -22,6 +24,8 @@
 ***Oh Bruh... That All I Make? BRUH!***
 
 Ok nvm About It... Just Enjoy :D
+
+---
 
 **Links**
 
