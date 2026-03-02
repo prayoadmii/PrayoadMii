@@ -4,6 +4,14 @@
 
 ---
 
+**Script Language I Know :3**
+* **[Luau](https://create.roblox.com/) (God At It)**
+* **[Python](https://www.python.org/) (Almost God)**
+* **HTML/CSS (Good At It)**
+* **Java (Just Start)**
+* **JavaScript (Just Start)**
+* **[C#](https://unity.com/) (Do Not Ask <3)**
+
 **So Yea! I Make Some Projects! (Scroll Down To See Public Repo's)**
 
 **My Faverite Projects**
