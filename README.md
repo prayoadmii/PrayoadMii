@@ -7,9 +7,9 @@
 **Script Language I Know :3**
 * **[Luau](https://create.roblox.com/) (God At It)**
 * **[Python](https://www.python.org/) (Almost God)**
-* **HTML/CSS (Good At It)**
-* **Java (Just Start)**
-* **JavaScript (Just Start)**
+* **[HTML/CSS](http://prayoadmii.qzz.io/) (Good At It)**
+* **[Java](https://modrinth.com/organization/noobs-studio-creations!) (Just Start)**
+* **[JavaScript](http://prayoadmii.qzz.io/) (Just Start)**
 * **[C#](https://unity.com/) (Do Not Ask <3)**
 
 ---
@@ -18,7 +18,7 @@
 
 **My Faverite Projects**
 
-* **[MC-Hangout-Server](https://hangout-island-status.pages.dev/) [Private Repo]:** My First Minecraft Server O_O
+* **[MC-PrayoadMii-Network](https://prayoadmii.qzz.io/projects/mc-pmn/status/index.html) [Private Repo]:** My Minecraft Server O_O
 * **[Noob-Bot](https://discord.com/oauth2/authorize?client_id=1354829549577437214) [Private Repo]:** Him Is The Best Discord Bot I Ever Made!
 
 ***Oh Bruh... That All I Make? BRUH!***
@@ -36,3 +36,5 @@ Ok nvm About It... Just Enjoy :D
 **Scratch:** [Profile](https://scratch.mit.edu/users/PrayoadMii) Or [Studios](https://scratch.mit.edu/studios/36723642/)
 
 **YouTube:** [Channel](https://www.youtube.com/@PrayoadMii)
+
+**Website:** [Domain1](http://prayoadmii.qzz.io/)
