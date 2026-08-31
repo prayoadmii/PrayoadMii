@@ -16,12 +16,4 @@
 
 **Links**
 
-**Discord:** @prayoadmii Or [My Server](https://discord.gg/vkFJhzFmYY)
-
-**Roblox:** [Profile](https://www.roblox.com/th/users/9778511204/profile) Or [Groups](https://www.roblox.com/th/communities/713383747/Noobs-Studio-Creations)
-
-**Scratch:** [Profile](https://scratch.mit.edu/users/PrayoadMii) Or [Studios](https://scratch.mit.edu/studios/36723642/)
-
-**YouTube:** [Channel](https://www.youtube.com/@PrayoadMii)
-
-**Website:** [Domain1](http://prayoadmii.qzz.io/)
+**All Of My Social Links Now Moved [Here](http://bio.prayoadmii.qzz.io/)**
