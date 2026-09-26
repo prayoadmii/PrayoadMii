@@ -9,7 +9,10 @@
 ## **SKILLS.md**
 
 **LVL - Best At It**
+
 - Hmm... Not Gonna Tell But... **I'M LAZY**
+- **I Can Help You Get Many Issues In Your Issue Tracker :D** *(Sometimes Even Reaching Limit Of Issues Users Allow To Make In GitHub)*
+- **Make Something That So "A"maz"I"ng**
 
 **LVL - Good**
 
@@ -22,7 +25,7 @@
 - **Minecraft Server Setup And Hosting** **[[NameMC](https://namemc.com/server/finishes-dui.tun.ply.gg)]** **[[Modrinth](https://modrinth.com/server/p-smp)]** **[[Official Website](https://p-smp.prayoadmii.qzz.io/)]**
 - **Minecraft Mods And Plugins** **[[Modrinth](https://modrinth.com/organization/prayoadmii-software)]**
 - **Cool Things In Linux Terminal**
-- **Writing Websites "WITH" My "BARE" Hands**
+- **"LITERALLY" Writing Websites "WITH" My "BARE" Hands**
 
 **LVL - Interested**
 
