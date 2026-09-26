@@ -11,7 +11,7 @@
 **LVL - Best At It**
 
 - Hmm... Not Gonna Tell But... **I'M LAZY**
-- **I Can Help You Get Many Issues In Your Issue Tracker :D** *(Sometimes Even Reaching Limit Of Issues Users Allow To Make In GitHub)*
+- **I Can Help You Get Many Issues In Your Issue Tracker :D** *(Sometimes Even Reaching Limit Of Issues Users Allowed To Make In GitHub)*
 - **Make Something That So "A"maz"I"ng**
 
 **LVL - Good**
@@ -26,10 +26,21 @@
 - **Minecraft Mods And Plugins** **[[Modrinth](https://modrinth.com/organization/prayoadmii-software)]**
 - **Cool Things In Linux Terminal**
 - **"LITERALLY" Writing Websites "WITH" My "BARE" Hands**
+- **Create Game On [Polytoria](https://polytoria.com/)**
 
 **LVL - Interested**
 
 - **Create Games In [Unity](https://unity.com/)**
+
+---
+
+## **If You Need Helps I Can Help You With**
+
+- **Your Minecraft Server Setup** *(Only Knows Paper Or Velocity Based Setup)*
+- **Collab With You In Your Roblox Game**
+- *cough* *cough* **FORKING!!** *(Sometimes You Don't Need To Ask Me... Just If License Allowed To I Do)*
+- **Be Your Friends :3** *(Wait... Who Actually Need Friends?)*
+- *Meows At You* **BRO WHAT?????**
 
 ---
 
