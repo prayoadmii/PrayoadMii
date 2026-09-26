@@ -2,7 +2,7 @@
 
 # **PrayoadMii**
 
-***Another Random Programmer Live In The Moon*** *(Actually A Same Planet As You're Right Now)*
+***Another Random Programmer Lives In The Moon*** *(Actually A Same Planet As You're Right Now)*
 
 ---
 
